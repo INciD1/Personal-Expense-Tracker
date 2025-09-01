@@ -1,0 +1,7 @@
+# render.yaml ที่ถูกต้อง
+services:
+  - type: web
+    name: personal-expense-tracker
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run Personal_Expense_Tracker_Project.py --server.port=$PORT --server.address=0.0.0.0
