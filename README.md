@@ -22,13 +22,7 @@ It was created as part of the course **968-253 Data Visualization** and uses a d
 
 ## Tech Stack
 - **Python Libraries**: pandas, numpy, matplotlib, seaborn, plotly, streamlit  
-- **Data Source**: [Kaggle – My Expenses Data](https://www.kaggle.com/datasets/tharunprabu/my-expenses-data)  
-
-## Insights
-- Food was the largest spending category.  
-- Income was irregular, mostly from parental support.  
-- Weekends showed higher spending than weekdays.  
-- Rent and social activities were the biggest recurring expenses.  
+- **Data Source**: [Kaggle – My Expenses Data](https://www.kaggle.com/datasets/tharunprabu/my-expenses-data)
 
 ## Author
 - **Auchukorn Veschapun** (6630611033)  
